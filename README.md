@@ -1,0 +1,1 @@
+# SplashScreenAndroid12
